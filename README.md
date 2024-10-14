@@ -1,3 +1,4 @@
+<a href="https://github.com/ZappyMan/MorphoMetriX-V2/tree/master/demo">This is the old MorphoMetriX repository and no longer recieved updates. Click here to visit new repo.</a>
 <br/>
 <p align="center">
   <a href="https://github.com/ZappyMan/MorphoMetriX">
